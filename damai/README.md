@@ -15,10 +15,22 @@ selenium可以直接可以用pip安装
 
 > pip install selenium
 
--------------
-
 #### 安装chromedriver
+ 下载
+chromedriver的版本一定要与Chrome的版本一致，不然就不起作用。
+
+有两个下载地址：
+
+1、http://chromedriver.storage.googleapis.com/index.html
+
+2、https://npm.taobao.org/mirrors/chromedriver/
+
+当然，你首先需要查看你的Chrome版本，在浏览器中输入chrome://version/
 
 
 
 #### 下载代码运行
+
+
+
+-------------
