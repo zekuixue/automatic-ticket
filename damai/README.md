@@ -16,7 +16,7 @@ selenium可以直接可以用pip安装
 > pip install selenium
 
 #### 安装chromedriver
- #####下载
+ ##### 下载
 chromedriver的版本一定要与Chrome的版本一致，不然就不起作用。
 
 有两个下载地址：
