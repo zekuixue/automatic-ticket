@@ -33,7 +33,8 @@ chromedriver的版本一定要与Chrome的版本一致，不然就不起作用�
 > chromedriver -version
 
 #### 下载代码运行
+下载automatic_ticket_purchase.py文件，修改文件里的配置信息
 
-
+> python automatic_ticket_purchase.py
 
 -------------
