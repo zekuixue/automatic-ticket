@@ -7,12 +7,13 @@
 * 如果对本列表有意见或者建议，欢迎给我提 [Issue](https://github.com/zekuixue/automatic-ticket/issues)
 * 编写代码不易，如帮你抢到票，欢迎 [赞赏]()
 
+-------------
 
 #### 安装selenium
 
 selenium可以直接可以用pip安装
-、、、
-    pip install selenium
+
+> pip install selenium
 
 -------------
 
