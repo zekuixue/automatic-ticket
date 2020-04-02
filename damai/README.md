@@ -11,14 +11,10 @@
 #### 安装selenium
 
 selenium可以直接可以用pip安装
-
 =======================
     pip install selenium
 
 -------------
-
-
-
 
 #### 安装chromedriver
 
